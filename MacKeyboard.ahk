@@ -65,6 +65,8 @@ F19::Run https://facebook.com
 ; OS X system shortcuts
 ; --------------------------------------------------------------
 
+#0::Send, ^0
+
 ; Make Ctrl + S work with cmd (windows) key
 #s::Send, ^s
 
